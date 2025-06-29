@@ -3,22 +3,21 @@
 ![header_](https://user-images.githubusercontent.com/71477357/161347219-25cfd180-87b7-47a3-81ab-ae05af41f86d.png)
 </div>
   
-  # Hi there, I'm Gabriel Quintino 
+  # Hi there, I'm Gabriel Quintino 👋
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 </div>
 
 - 👨‍💻 I’m currently searching for increase my knowledge.
-- 📚 I’m currently learning about JavaScript. 😅
+- 📚 I’m currently learning about Javascript and Java. 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play games and basketball :basketball:.
+
 
 ---
 
 ### Languages and Tools That I Use / Familiar With 🛠 
 
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&style=flat-square)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff&style=flat-square)
