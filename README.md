@@ -3,11 +3,9 @@
 ![header_](https://user-images.githubusercontent.com/71477357/161347219-25cfd180-87b7-47a3-81ab-ae05af41f86d.png)
 </div>
   
-<<<<<<< HEAD
+
   # Hi there, I'm Gabriel Quintino 👋
-=======
-  # Hi there, I'm Lucas Nunes 👋
->>>>>>> parent of 0555ad6 (tirar maozinha)
+
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## I'm a systems analysis and development student, eager to learn, always willing to learn new things.
@@ -17,7 +15,7 @@
 - 📚 I’m currently learning about Javascript and Java. 😅
 =======
 - 📚 I’m currently learning about Node and Typescript. 😅
->>>>>>> parent of 0555ad6 (tirar maozinha)
+
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 
@@ -39,7 +37,6 @@
 ![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white&style=flat-square)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&style=flat-square)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff&style=flat-square)
->>>>>>> parent of 0555ad6 (tirar maozinha)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&style=flat-square)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff&style=flat-square)
