@@ -1,13 +1,13 @@
-<div align="center">
-  ![img](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-</div>
+<div align="center"></div>
+
+<img src= https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif width="500" height="200">
 
 
-# Hi there, im Gabriel Quintino
+# Hi there, im Gabriel Quintino dos Santos
 
 
 
-##  🚀  I'm studying programming in search of my first job in the field.
+##  🚀  I'm studying programming in search of my first job as a programmer.
 
 - I am committed to learning to be a good professional
 - Looking for my first job in the area
@@ -15,7 +15,8 @@
 
 ###  🛠️ My Skills
 
-- Learning Java and Javascrip
+- Learning Java using Intellij
+- Learning JavaScript using Vscode <img src= https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif width=15>
 
 ### 👉 Project
 
